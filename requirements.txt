@@ -1,0 +1,11 @@
+# Python 3.11 recommended. Ranges are bootstrap constraints, not a lockfile.
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+xgboost>=2.1,<4
+lightgbm>=4.5,<5
+langchain>=1,<2
+langgraph>=1,<2
+langchain-openai>=1,<2
+python-dotenv>=1,<2

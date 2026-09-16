@@ -1,0 +1,6 @@
+lot_id,ingredient,stock_kg,expiry_date
+R001,rice,25,2026-09-20
+T001,tofu,8,2026-09-17
+T002,tofu,12,2026-09-19
+C001,carrot,10,2026-09-18
+C000,carrot,4,2026-09-16
